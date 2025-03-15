@@ -1,0 +1,66 @@
+c:\Users\pct216\Documents\Pizza Shop\Service\bin\Debug\net7.0\Service.deps.json
+c:\Users\pct216\Documents\Pizza Shop\Service\bin\Debug\net7.0\Service.dll
+c:\Users\pct216\Documents\Pizza Shop\Service\bin\Debug\net7.0\Service.pdb
+c:\Users\pct216\Documents\Pizza Shop\Service\bin\Debug\net7.0\Repository.dll
+c:\Users\pct216\Documents\Pizza Shop\Service\bin\Debug\net7.0\Repository.pdb
+c:\Users\pct216\Documents\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+c:\Users\pct216\Documents\Pizza Shop\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pct216\Documents\Pizza Shop\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+c:\Users\pct216\Documents\Pizza Shop\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+c:\Users\pct216\Documents\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+c:\Users\pct216\Documents\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+c:\Users\pct216\Documents\Pizza Shop\Service\obj\Debug\net7.0\Service.dll
+c:\Users\pct216\Documents\Pizza Shop\Service\obj\Debug\net7.0\refint\Service.dll
+c:\Users\pct216\Documents\Pizza Shop\Service\obj\Debug\net7.0\Service.pdb
+c:\Users\pct216\Documents\Pizza Shop\Service\obj\Debug\net7.0\ref\Service.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Repository.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Repository.pdb
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\ref\Service.dll
+c:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.runtimeconfig.json
+c:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.genruntimeconfig.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.deps.json
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.runtimeconfig.json
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Repository.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Repository.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\refint\Service.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.genruntimeconfig.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Service\obj\Debug\net7.0\ref\Service.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.deps.json
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.runtimeconfig.json
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Service.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Repository.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\bin\Debug\net7.0\Repository.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\refint\Service.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\Service.genruntimeconfig.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Service\obj\Debug\net7.0\ref\Service.dll

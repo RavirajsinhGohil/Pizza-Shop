@@ -1,0 +1,384 @@
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.AssemblyReference.cache
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.AssemblyInfoInputs.cache
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.AssemblyInfo.cs
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.CoreCompileInputs.cache
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.RazorAssemblyInfo.cache
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.RazorAssemblyInfo.cs
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\appsettings.json
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Web.staticwebassets.runtime.json
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Web.exe
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Web.deps.json
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Web.runtimeconfig.json
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Web.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Web.pdb
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Azure.Core.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Azure.Identity.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\BCrypt.Net-Next.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Humanizer.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\System.CodeDom.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\System.Memory.Data.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Repository.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Service.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Service.pdb
+c:\Users\pct216\Documents\Pizza Shop\Web\bin\Debug\net7.0\Repository.pdb
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.props
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.props
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\bundle\Web.styles.css
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\projectbundle\Web.bundle.scp.css
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.CopyComplete
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\refint\Web.dll
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.pdb
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\Web.genruntimeconfig.cache
+c:\Users\pct216\Documents\Pizza Shop\Web\obj\Debug\net7.0\ref\Web.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\appsettings.json
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.staticwebassets.runtime.json
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.exe
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.deps.json
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.runtimeconfig.json
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.pdb
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\MailKit.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\MimeKit.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Repository.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Service.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Service.pdb
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Repository.pdb
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.AssemblyReference.cache
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.AssemblyInfoInputs.cache
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.AssemblyInfo.cs
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.RazorAssemblyInfo.cache
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.RazorAssemblyInfo.cs
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.props
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\bundle\Web.styles.css
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\projectbundle\Web.bundle.scp.css
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.CopyComplete
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\refint\Web.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.pdb
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.genruntimeconfig.cache
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\ref\Web.dll
+C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\appsettings.Development.json
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\appsettings.json
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.staticwebassets.runtime.json
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.exe
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.deps.json
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.runtimeconfig.json
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Azure.Core.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Azure.Identity.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Humanizer.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\MailKit.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.ObjectPool.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\MimeKit.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.CodeDom.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Repository.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Service.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Service.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Repository.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.AssemblyReference.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.AssemblyInfoInputs.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.AssemblyInfo.cs
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.CoreCompileInputs.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.RazorAssemblyInfo.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.RazorAssemblyInfo.cs
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.props
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.props
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.build.json
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.development.json
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\bundle\Web.styles.css
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\projectbundle\Web.bundle.scp.css
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.CopyComplete
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\refint\Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.genruntimeconfig.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\Main Project\Pizza Shop\Web\obj\Debug\net7.0\ref\Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\appsettings.Development.json
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\appsettings.json
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.staticwebassets.runtime.json
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.exe
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.deps.json
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.runtimeconfig.json
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Web.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Azure.Core.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Azure.Identity.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Humanizer.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\MailKit.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.ObjectPool.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\MimeKit.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.CodeDom.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Repository.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Service.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Service.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\bin\Debug\net7.0\Repository.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.AssemblyReference.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.AssemblyInfoInputs.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.AssemblyInfo.cs
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.CoreCompileInputs.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.RazorAssemblyInfo.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.RazorAssemblyInfo.cs
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.props
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.props
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.build.json
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\staticwebassets.development.json
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\bundle\Web.styles.css
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\scopedcss\projectbundle\Web.bundle.scp.css
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.csproj.CopyComplete
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\refint\Web.dll
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.pdb
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\Web.genruntimeconfig.cache
+D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\obj\Debug\net7.0\ref\Web.dll

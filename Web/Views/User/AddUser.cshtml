@@ -1,0 +1,255 @@
+@using Microsoft.EntityFrameworkCore.Metadata.Internal
+@model Repository.ViewModel.AddUserViewModel;
+
+@{
+    ViewData["Title"] = "Add User";
+}
+
+<div class="add_user_heading d-flex justify-content-between">
+    <div class="fw-bold fs-2">Add User</div>
+    <div class="d-flex">
+        <img src="" alt="">
+        <a asp-controller="User" asp-action="UserList" class="btn btn-primary ms-3">&lt; Back</a>
+    </div>
+</div>
+
+<form method="post" enctype="multipart/form-data">
+    <div class="add_user_form">
+        <div class="row mx-0">
+            <div class="col-lg-6 col-md-6 mt-3">
+                <div class="form-floating">
+                    <input type="text" class="form-control add_user_input" asp-for="Firstname" id="floatingInput"
+                    placeholder="name@example.com">
+                    <label for="floatingInput">First Name</label>
+                    <span asp-validation-for="Firstname" class="text-danger"></span>
+                </div>
+                @* @if (ViewContext.ModelState.ContainsKey("Firstname"))
+                {
+            <div class="text-danger">@ViewContext.ModelState["Firstname"].Errors[0].ErrorMessage</div>
+        } *@
+            </div>
+            <div class="col-lg-6 col-md-6 mt-3">
+                <div class="form-floating">
+                    <input type="text" class="form-control add_user_input" asp-for="Lastname" id="exampleInput"
+                        aria-describedby="emailHelp" placeholder="Last Name">
+                    <label for="floatingInput">Last Name</label>
+                    <span asp-validation-for="Lastname" class="text-danger"></span>
+                </div>
+                @* @if (ViewContext.ModelState.ContainsKey("Lastname"))
+        {
+            <div class="text-danger">@ViewContext.ModelState["Lastname"].Errors[0].ErrorMessage</div>
+        } *@
+            </div>
+        </div>
+
+        <div class="row mx-0">
+            <div class="col-lg-6 col-md-6 mt-3">
+                <div class="form-floating">
+                    <input type="text" class="form-control add_user_input" asp-for="Username" id="floatingInput"
+                        placeholder="name@example.com">
+                    <label for="floatingInput">User Name</label>
+                <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+                @* @if (ViewContext.ModelState.ContainsKey("Email2"))
+                        {
+                            <div class="text-danger">@ViewContext.ModelState["Email2"].Errors[0].ErrorMessage</div>
+                        } *@
+            </div>
+            <div class="col-lg-6 col-md-6 mt-3">
+
+                <div class="form-floating">
+                    <select class="form-select add_user_input" asp-for="Rolename" aria-label="Default select example">
+                        <option selected>Select Role</option>
+                        <option value="1">Admin</option>
+                        <option value="2">Account Manager</option>
+                        <option value="3">Chef</option>
+                    </select>
+                    <label class="fs-6" for="floatingInput">Role</label>
+                </div>
+                @if (ViewContext.ModelState.ContainsKey("Rolename"))
+        {
+            <div class="text-danger">@ViewContext.ModelState["Rolename"].Errors[0].ErrorMessage</div>
+        }
+                
+
+            </div>
+        </div>
+
+        <div class="row mx-0">
+            <div class="col-lg-6 col-md-6 mt-3">
+                <div class="form-floating">
+                    <input type="text" class="form-control add_user_input" asp-for="Email" id="exampleInput"
+                        aria-describedby="emailHelp" placeholder="Email">
+                    <label for="floatingInput">Email</label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                @* @if (ViewContext.ModelState.ContainsKey("Email2"))
+        {
+            <div class="text-danger">@ViewContext.ModelState["Email2"].Errors[0].ErrorMessage</div>
+        } *@
+            </div>
+            <div class="col-lg-6 col-md-6 mt-3">
+                <div class="form-floating">
+                    <input type="password" class="form-control add_user_input" asp-for="Password" id="floatingInput"
+                        placeholder="abc@123">
+                    <label for="floatingInput">Password</label>
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                @* @if (ViewContext.ModelState.ContainsKey("Password"))
+        {
+            <div class="text-danger">@ViewContext.ModelState["Password"].Errors[0].ErrorMessage</div>
+        } *@
+            </div>
+        </div>
+
+
+        <div class="row upload_div mx-0 mt-3">
+            <div class="col d-flex upload_div2 align-items-center browse_div justify-content-center w-100 border">
+                <div class="w-100">
+                    <button type="button" class="w-100 h-100 d-flex justify-content-center upload_btn bg-white" 
+                        onclick="openinputFile()">
+                        <img class="dashboard-icon" src="~/images/icons/cloud-arrow-up.svg" alt="">
+                        Browse file
+                    </button>
+                    <input id="inputFile" asp-for="ProfileImage" accept="image/*" class="d-none" type="file">
+                     @*<button class="w-100 h-100 d-flex justify-content-center upload_btn bg-white"
+                        onclick="openinputFile()">
+                        <img class="dashboard-icon" src="~/images/icons/cloud-arrow-up.svg" alt="">
+                        Browse file</button> *@
+                </div>
+            </div>
+        </div>
+
+        @* <div class="col mt-3">
+                    <input type="file" asp-for="ProfileImage" accept="image/*" id="FileInput" style="display: none;">
+                    <button class="w-100 btn-upload" onclick="OpenFile()">
+                        <div class="upload-icon">
+                            <img class="dashboard-icon" src="~/images/icons/cloud-arrow-up.svg" alt="">
+
+                        </div>
+                        Browse files
+                    </button>
+                </div> *@
+
+        <div class="row mx-0">
+            <div class="col-lg-4 col-md-4 col-sm-12 mt-3">
+                <select class="form-select dropdown" asp-for="Country" id="Country">
+                    <option>Select Country</option>
+                </select>
+                @if (ViewContext.ModelState.ContainsKey("Country"))
+        {
+            <div class="text-danger">@ViewContext.ModelState["Country"].Errors[0].ErrorMessage</div>
+        }
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 mt-3">
+                <select class="form-select" asp-for="State" id="State">
+                    <option>Select State</option>
+                </select>
+                @if (ViewContext.ModelState.ContainsKey("States"))
+        {
+            <div class="text-danger">@ViewContext.ModelState["States"].Errors[0].ErrorMessage</div>
+        }
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 mt-3">
+                <select class="form-select" asp-for="City" id="City">
+                    <option>Select City</option>
+                </select>
+                @if (ViewContext.ModelState.ContainsKey("City"))
+        {
+            <div class="text-danger">@ViewContext.ModelState["City"].Errors[0].ErrorMessage</div>
+        }
+            </div>
+        </div>
+
+        <div class="row mx-0">
+            <div class="col-lg-4 col-md-4 col-sm-12 mt-3">
+                <div class="form-floating">
+                    <input type="text" class="form-control add_user_input" asp-for="Zipcode" id="floatingInput"
+                        placeholder="name@example.com">
+                    <label for="floatingInput">Zipcode</label>
+                    <span asp-validation-for="Zipcode" class="text-danger"></span>
+                </div>
+                @* @if (ViewContext.ModelState.ContainsKey("Zipcode2"))
+        {
+            <div class="text-danger">@ViewContext.ModelState["Zipcode2"].Errors[0].ErrorMessage</div>
+        } *@
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 mt-3">
+                <div class="form-floating">
+                    <input type="text" class="form-control add_user_input" asp-for="Address" id="floatingInput"
+                        placeholder="name@example.com">
+                    <label for="floatingInput">Address</label>
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+                @* @if (ViewContext.ModelState.ContainsKey("Address"))
+        {
+            <div class="text-danger">@ViewContext.ModelState["Address"].Errors[0].ErrorMessage</div>
+        } *@
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 mt-3">
+                <div class="form-floating">
+                    <input type="text" class="form-control add_user_input" asp-for="Phone" id="floatingInput"
+                        placeholder="name@example.com">
+                    <label for="floatingInput">Phone</label>
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+                @* @if (ViewContext.ModelState.ContainsKey("Phone"))
+        {
+            <div class="text-danger">@ViewContext.ModelState["Phone"].Errors[0].ErrorMessage</div>
+        } *@
+            </div>
+        </div>
+
+        <div class="create_cancel_btn my-3">
+            <button type="submit" class="btn btn-primary">Create User</button>
+            <a class="btn border-primary">Cancel</a>
+        </div>
+
+    </div>
+
+</form>
+
+<script>
+    $(document).ready(function () {
+
+        $.getJSON('/GetData/GetCountries', function (data) {
+            @* $("#Country").html('<option selected>Select Country</option>'); *@
+                $.each(data, function (index, country) {
+                    $("#Country").append(`<option value="${country.countryId}">${country.countryName}</option>`);
+                });
+        });
+
+        $("#Country").change(function () {
+            var countryId = $(this).val();
+            $("#State").html('<option value="">Select State</option>').prop("disabled", true);
+            $("#City").html('<option value="">Select City</option>').prop("disabled", true);
+
+            if (countryId) {
+                $.getJSON(`/GetData/GetStates?countryId=${countryId}`, function (data) {
+                    $("#State").prop("disabled", false);
+                    $.each(data, function (index, state) {
+                        $("#State").append(`<option value="${state.stateId}">${state.stateName}</option>`);
+                    });
+                });
+            }
+        });
+
+        $("#State").change(function () {
+            var stateId = $(this).val();
+            $("#City").html('<option value="">Select City</option>').prop("disabled", true);
+
+            if (stateId) {
+                $.getJSON(`/GetData/GetCities?stateId=${stateId}`, function (data) {
+                    $("#City").prop("disabled", false);
+                    $.each(data, function (index, city) {
+                        $("#City").append(`<option value="${city.cityId}">${city.cityName}</option>`);
+                    });
+                });
+            }
+        });
+    });
+</script>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>

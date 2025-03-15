@@ -1,0 +1,510 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.row>* {
+    flex-shrink: 0;
+    margin-top: var(--bs-gutter-y);
+}
+
+.login {
+    width: 100%;
+    height: 100%;
+}
+
+.login_body {
+    height: 100vh;
+    width: 50%;
+    background-color: #d8e8f8;
+    /* padding-left: 12px;
+    padding-right: 12px; */
+}
+
+.login_main {
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.login_img {
+    height: 100vh;
+}
+
+.pizza_img {
+    height: 100vh;
+    /* width: 100%; */
+    object-fit: cover;
+}
+
+.login_heading {
+    color: white;
+}
+
+.pizza_shop_logo {
+    height: 6vh !important;
+}
+
+
+.title {
+    color: #0066a7;
+}
+
+
+@media screen and (max-width: 992px) {
+
+    .login_img,
+    .login_body {
+        height: 50vh;
+    }
+
+    .pizza_img {
+        width: 100vw;
+    }
+
+    .login_body {
+        width: 100vw;
+        display: flex !important;
+        align-items: center !important;
+        /* flex-direction: column; */
+        justify-content: center !important;
+
+    }
+}
+
+/* 
+*************
+Forgot Page 
+*************
+ */
+
+.back_login {
+    text-decoration: none;
+}
+
+
+
+/* 
+***********
+Users List
+***********
+ */
+
+.sidebar_btn {
+    text-decoration: none;
+    color: gray;
+    height: 40px;
+}
+
+.sidebar {
+    width: 250px !important;
+}
+
+.users_heading {
+    color: #0066A7;
+}
+
+.users_list {
+    height: 90vh;
+    background-color: #F2F2F2;
+}
+
+.users_list_body {
+    border-radius: 5px;
+    background-color: white;
+}
+
+.search_user {
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid #F2F2F2;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.search_logo{
+    width: 50px !important;
+
+    border-top-width: 1px !important;
+    border-right-width: 1px !important;
+    border-bottom-width: 1px !important;
+    /* border-left-width: 1px; */
+    border-top-style: solid !important;
+    border-right-style: solid !important;
+    border-bottom-style: solid !important;
+    /* border-left-style: solid; */
+    border-top-color: rgb(206, 212, 218) !important;
+    border-right-color: rgb(206, 212, 218) !important;
+    border-bottom-color: rgb(206, 212, 218) !important;
+    border-image-source: initial !important;
+    border-image-slice: initial !important;
+    border-image-width: initial !important;
+    border-image-outset: initial !important;
+    border-image-repeat: initial !important;
+}
+
+
+.pencil_img {
+    padding-top: 6px !important;
+}
+
+.offcanvas-start {
+    width: 230px;
+}
+
+.status {
+    width: 100%;
+    height: 10vh;
+    background-color: #0066A7 !important;
+}
+
+.delete_btn {
+    border: none !important;
+}
+
+.user_list_font_color {
+    color: #70757a !important;
+}
+
+.paging {
+    border-radius: 5px;
+    background-color: white;
+}
+
+.paging_scroll {
+    width: 60px !important;
+    padding: 0 !important;
+    height: auto;
+    border: 1px solid black !important;
+    border-radius: 5px !important;
+}
+
+.page_btn {
+    border: 1px solid black;
+    width: 30px !important;
+    height: 30px !important;
+    border-radius: 4px !important;
+}
+
+
+/* 
+***********
+Add User
+***********
+ */
+
+#user_body {
+    /* width: inherit; */
+    /* height: 100vh; */
+    /* margin-left: 250px; */
+    background-color: #F2F2F2;
+}
+
+.form-select {
+    height: 54px !important;
+}
+
+.add_user_input {
+    height: 54px !important;
+}
+
+.add_user_heading {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1rem;
+    color: #0066A7;
+}
+
+.add_user_form {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1.5rem;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.upload_div {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+
+}
+
+.upload_div2 {
+    height: 100px;
+    border: 2px solid #ced4da !important;
+    border-style: dashed !important;
+}
+
+.upload_btn {
+    width: 100%;
+    height: 100%;
+
+    /* opacity: 0; */
+    position: relative;
+    /* color: white; */
+    border: none;
+    /* margin: 0px 12px;  */
+}
+
+.browse_div {
+    border-radius: 5px;
+}
+
+.create_cancel_btn {
+    margin-left: 12px;
+}
+
+.active_div {
+    color: white;
+    background-color: #99D363;
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 75px !important;
+}
+
+.search_bar {
+    background-color: white;
+}
+
+
+.user_search_img{
+    width: 25px;
+    height: 25px;
+}
+
+.offcanvas {
+    width: 250px !important;
+}
+
+.offcanvas-backdrop.show {
+    background-color: transparent !important;
+}
+
+.offcanvas.show~#user_body {
+    margin-left: 250px;
+}
+
+.offcanvas.show~.status {
+    display: flex;
+    justify-content: end;
+}
+
+.modal-backdrop.show {
+    opacity: 0 !important;
+}
+
+@media screen and (max-width: 768px) {
+    .toggle_btn {
+        opacity: 1;
+    }
+
+    .offcanvas.show~#user_body {
+        margin-left: 0px;
+    }
+
+    .offcanvas {
+        .offcanvas {
+            transform: none !important;
+            visibility: visible !important;
+            position: relative !important;
+        }
+    }
+
+    .offcanvas.show {
+        left: 0;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #user_body {
+        height: 100vh;
+        margin-left: 250px !important;
+    }
+
+    .toggle_btn {
+        opacity: 0;
+    }
+
+    .offcanvas.show~#user_body {
+        margin-left: 250px;
+    }
+
+    .offcanvas.show {
+        left: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .offcanvas {
+        visibility: hidden !important;
+        transform: translateX(-100%) !important;
+    }
+
+    .offcanvas.show {
+        visibility: visible !important;
+        transform: translateX(0) !important;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .offcanvas {
+        visibility: visible !important;
+        transform: none !important;
+    }
+
+    #user_body {
+        height: 100vh;
+        margin-left: 250px !important;
+    }
+
+    .offcanvas.show {
+        left: 0 !important;
+    }
+}
+
+
+/* 
+*************
+Role
+*************
+*/
+.roles {
+    padding: 15px;
+    margin-left: 5%;
+    margin-right: 25%;
+    margin-top: 1.5rem;
+    background-color: white;
+    border-radius: 5px;
+}
+
+/* 
+*************
+Permission
+*************
+ */
+
+ .permissions {
+    padding: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1.5rem;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.permission_cancel_btn {
+    margin-left: 100px;
+}
+
+.create_cancel_btn {
+    padding-right: 15px;
+}
+
+
+/* 
+*************
+Menu
+*************
+ */
+
+.menu_heading {
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #0066A7;
+}
+
+
+.menu_item_delete {
+    padding: 10px;
+    border: 2px solid #F2F2F2 !important;
+}
+
+.six_dot {
+    height: 10px;
+}
+
+.add_category_btn {
+    width: 25px;
+    color: #0066A7 !important;
+}
+
+.menu_category,
+.menu_items_heading {
+    color: #0066A7;
+}
+
+.menu_sidebar_list {
+    height: 370px;
+    width: 250px;
+    overflow: auto;
+    /* border: 1px solid ; */
+    border-right: #0066A7;
+}
+
+.menu_content {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1.5rem;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+/* 
+*************
+My Profile
+************* 
+*/
+
+.profile_bg {
+    width: 100%;
+    height: 50px;
+}
+
+.profile_body_img {
+    position: relative;
+    top: -23px;
+    height: 90px;
+    left: 18px;
+    border-radius: 50%;
+}
+
+.profile_dropdown {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.ProfileChangeDiv {
+
+    padding-left: 100px !important;
+    /* margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 1.5rem; */
+    background-color: #F2F2F2;
+    border-radius: 5px;
+}
+
+
+input[type="password"]::-ms-reveal,
+input[type="password"]::-ms-clear {
+  display: none !important;
+}
+
+.modal {
+    /* background:  rgb(255, 255, 255) !important; */
+}
+
+/* ************
+Modifiers
+************ */
+.btn-edit-modifier
+{
+    border: none;
+    background: transparent;
+}
