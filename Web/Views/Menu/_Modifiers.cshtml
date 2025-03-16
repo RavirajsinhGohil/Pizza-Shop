@@ -31,8 +31,8 @@
                         <td class="text-center" style=" border-top: 1px solid rgb(182, 177, 177);">@modifier.Rate</td>
                         <td class="text-center" style=" border-top: 1px solid rgb(182, 177, 177);">@modifier.Quantity</td>
                         <td class="text-center" style=" border-top: 1px solid rgb(182, 177, 177);">
-                            <a class="edit-icon" data-id="@modifier.ModifierId" title="Edit" data-bs-toggle="modal"
-                                data-bs-target="#EditItemModal" id="editMenuItemLink">
+                            <a class="edit-icon-modifier" data-id="@modifier.ModifierId" title="Edit" data-bs-toggle="modal"
+                                data-bs-target="#EditModifierModal" >
                                 <img src="~/images/Download/pencil.svg" alt="">
                             </a>
 
@@ -84,16 +84,16 @@
 <script>
     $(document).ready(function () {
         // Trigger the AJAX call when the edit link is clicked
-        $('body').on('click', '.edit-icon', function (e) {
+        $('body').on('click', '.edit-icon-modifier', function (e) {
             e.preventDefault();
             var itemId = $(this).data('id');
             $.ajax({
-                url: '@Url.Action("EditMenuItem", "Menu")',
+                url: '@Url.Action("EditModifier", "Menu")',
                 type: 'GET',
                 data: { id: itemId },
                 success: function (response) {
-                    $('#EditItemModal .modal-content').html(response);
-                    $('#EditItemModal').modal('show');
+                    $('#EditModifierModal .modal-content').html(response);
+                    $('#EditModifierModal').modal('show');
                 },
                 error: function (xhr, status, error) {
                     console.log('Error:', error);
@@ -103,16 +103,16 @@
         });
     });
 
-    $('body').on('submit', '#editMenuItemForm', function (e) {
+    $('body').on('submit', '#EditModifierForm', function (e) {
         e.preventDefault();
         var formData = $(this).serialize();
         $.ajax({
-            url: '@Url.Action("EditMenuItem", "Menu")',
+            url: '@Url.Action("EditModifier", "Menu")',
             type: 'POST',
             data: formData,
             success: function (response) {
                 if (response.success) {
-                    $('#EditItemModal').modal('hide');
+                    $('#EditModifierModal').modal('hide');
                     $('.modal-backdrop').remove();
                     $('body').removeClass('modal-open');
                 }

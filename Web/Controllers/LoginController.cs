@@ -70,7 +70,7 @@ public class LoginController : Controller
                 cookie.Expires = DateTime.UtcNow.AddDays(30);
             }
             TempData["success"] = "Login Successful";
-            return RedirectToAction("UserList", "User");
+            return RedirectToAction("Index", "Dashboard");
         }
         return View();
     }

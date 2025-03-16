@@ -23,9 +23,9 @@ public class UserController : Controller
         _userService = userService;
     }
 
-    [CustomAuthorize("Admin")]
+    // [CustomAuthorize("Admin")]
+    [CustomAuthorize("Admin", "CanView")]
     [HttpGet]
-
     public IActionResult UserList(string searchTerm = "", int page = 1, int pageSize = 5, string sortBy = "Name", string sortOrder = "asc")
     {
         var paginatedUsers = _userService.GetUsers(searchTerm, page, pageSize, sortBy, sortOrder);
@@ -53,7 +53,7 @@ public class UserController : Controller
             Task<bool> isAdded = _userService.AddUser(model);
             if (isAdded != null)
             {
-                string filePath = @"C:\Users\pct216\Downloads\Pizza Shop\Main Project\Pizza Shop\Web\EmailTemplate\AddUserEmailTemplate.html";
+                string filePath = @"D:\Pizza-Shop-main\Pizza-Shop-main\PizzaShop\Main Project\Pizza Shop\Web\EmailTemplate\AddUserEmailTemplate.html";
                 string emailBody = System.IO.File.ReadAllText(filePath);
 
                 emailBody = emailBody.Replace("{abc123}", model.Username);

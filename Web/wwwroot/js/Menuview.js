@@ -9,6 +9,7 @@ function toggleIconPosition(condition) {
         }
     });
 }
+
 // For toggle the side tabs of menu categories and modifier groups
 function toggleTabs() {
     var sideTabs = document.querySelectorAll(".side-tab");
@@ -101,11 +102,13 @@ document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".modifiergroup").forEach(button => {
         button.addEventListener("click", function (e) {
             e.preventDefault();
-            let modifierId = this.dataset.modifierId;
-            fetch(`/Menu/GetModifiersByModifierGroup?modifierid=${categoryId}`)
+            // let modifierId = this.dataset.ModifierGroupId;
+            let modifierId = this.dataset.modifiergroupId;
+            // let modifierId = this.dataset.ModifierGroupId;
+            fetch(`/Menu/GetModifiersByModifierGroup?modifierid=${modifierId}`)
                 .then(response => response.text())
                 .then(data => {
-                    document.getElementById("ItemListContainer").innerHTML = data;
+                    document.getElementById("ModifiersListContainer").innerHTML = data;
                 })
                 .catch(error => console.error("Error loading items:", error));
         });

@@ -102,12 +102,12 @@ public class UserService : IUserService
         Role Rolename = _dbo.Roles.FirstOrDefault(r => r.Roleid == model.RoleId);
 
         model.Rolename = Rolename.ToString();
-        Task<int> index = _dbo.Users.CountAsync();
-        var totalUsers = await _userRepository.GetUsers().CountAsync();
+        Task<int> index =  _dbo.Users.CountAsync();
+        // var totalUsers =  _userRepository.GetUsers();
+        // int abcd = await totalUsers.CountAsync();
 
         var user = new User
         {
-            Userid = totalUsers + 1,
             Firstname = model.Firstname,
             Lastname = model.Lastname,
             Email = model.Email,

@@ -523,14 +523,14 @@ public class MenuController : Controller
                 // Createdby = 
             };
 
-            var modifierMapping = new Itemmodifiergroupmapping
-            {
-                Itemmodifiergroupmappingid = 1,
-                Itemid = model.ModifierId,
-                Modifiergroupid = model.ModifierGroupId
-            };
+            // var modifierMapping = new Itemmodifiergroupmapping
+            // {
+            //     Itemmodifiergroupmappingid = 1,
+            //     Itemid = model.ModifierId,
+            //     Modifiergroupid = model.ModifierGroupId
+            // };
             
-            _db.Itemmodifiergroupmappings.Add(modifierMapping);
+            // _db.Itemmodifiergroupmappings.Add(modifierMapping);
             _db.Items.Add(menuItem);
             await _db.SaveChangesAsync();
 
@@ -551,19 +551,68 @@ public class MenuController : Controller
                         .Where(c => c.Categoryid == modifierid && c.Isdeleted == false && c.Ismodifiable == true)
                         .ToList();
 
-        var itemViewModels = items.Select(item => new ItemViewModel
+        var itemViewModels = items.Select(item => new ModifiersViewModel
         {
-            Itemid = item.Itemid,
+            ModifierId = item.Itemid,
+            ModifierGroupId = item.Categoryid,
             Name = item.Itemname,
-            Itemtype = item.Itemtype,
             Rate = item.Rate ?? 0,
             Quantity = item.Quantity,
-            Itemimage = item.Itemimage,
-            Isavailable = item.Available
+            Isdeleted = false
         }).ToList();
 
         return PartialView("_Modifiers", itemViewModels);
     }
+
+    [HttpGet]
+    public IActionResult EditModifier(int id)
+    {
+        try
+        {
+            var item = _db.Items
+                          .Where(m => m.Itemid == id)
+                          .FirstOrDefault();
+
+            if (item == null)
+            {
+                return NotFound();
+            }
+
+            var modifierGroups = _db.Modifiergroups
+                                .Select(m => new ModifierGroupViewModel
+                                {
+                                    ModifierGroupId = m.Modifiergroupid,
+                                    modifierGroupName = m.Modifiername
+                                }).ToList();
+
+            var viewModel = new MenuItemViewModel
+            {
+                Modifiers = new List<ModifiersViewModel>
+                {
+                    new ModifiersViewModel
+                    {
+                        ModifierId = item.Itemid,
+                        Name = item.Itemname,
+                        ModifierGroupId = item.Categoryid,
+                        Rate = item.Rate,
+                        Quantity = item.Quantity,
+                        Unit = item.Unit,
+                        Description = item.Description,
+                        Isdeleted = item.Isdeleted,
+                    }
+                },
+                ModifierGroups = modifierGroups
+            };
+            return PartialView("_EditModifierModal", viewModel);
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, "Internal server error.");
+        }
+    }
+
+
+    
 
 
 

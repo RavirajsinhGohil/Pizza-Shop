@@ -1,0 +1,83 @@
+@model Repository.ViewModel.MenuItemViewModel;
+
+<div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modifierModalLabel">Add New Modifier</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <form id="EditModifierForm" asp-controller="Menu" asp-action="EditModifier" method="post">
+                <div class="row">
+                    <div class="col-md-6">
+                        <select class="form-select" id="ModifierGroupId1" name="ModifierGroupId" required>
+                            <option value="" selected>Select Modifier Group(s)</option>
+                            @foreach (var modifierGroup in Model.ModifierGroups)
+                            {
+                                <option value="@modifierGroup.ModifierGroupId">
+                                    @modifierGroup.modifierGroupName
+                                </option>
+                                @* @if (modifierGroup.ModifierGroupId == Model.ModifierGroups.First().ModifierGroupId)
+                                    {
+                                        <option value="@modifierGroup.ModifierGroupId">
+                                            @modifierGroup.modifierGroupName
+                                        </option>
+                                    }
+                                    else
+                                    {
+                                        <option value="@modifierGroup.ModifierGroupId">
+                                            @modifierGroup.modifierGroupName
+                                        </option>
+                                    } *@
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-floating mb-3">
+                            <input type="text" class="form-control" id="Name1" name="Name" placeholder="Name">
+                            <label for="name">Name</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row g-3">
+                    <div class="col-md-4">
+                        <div class="form-floating">
+                            <input type="number" class="form-control" id="Rate1" name="Rate" placeholder="Rate"
+                                value="0">
+                            <label for="rate">Rate</label>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="form-floating">
+                            <input type="number" class="form-control" id="Quantity1" name="Quantity"
+                                placeholder="Quantity" value="0">
+                            <label for="quantity">Quantity</label>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="form-floating">
+                            <select class="form-select" id="Unit1" name="Unit" aria-label="Select Unit">
+                                <option selected>Select a unit</option>
+                                <option value="kg">Kg</option>
+                                <option value="g">Gram</option>
+                                <option value="ltr">Litre</option>
+                            </select>
+                            <label for="unit">Unit</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-floating mt-3">
+                    <textarea class="form-control" id="Description1" name="Description"
+                        placeholder="Description"></textarea>
+                    <label for="description">Description</label>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>

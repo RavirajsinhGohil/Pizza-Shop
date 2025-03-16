@@ -343,10 +343,10 @@
                                 @foreach (var modifierGroup in Model.ModifierGroups)
                                 {
                                     <div class="user-card-container" style="position: relative; display: block;">
-                                        <a  class="nav-link" id="category-@modifierGroup.ModifierGroupId"
+                                        <a class="nav-link modifiergroup" id="modifierid-@modifierGroup.ModifierGroupId"
                                             data-bs-toggle="pill" data-bs-target="#v-pills-home" role="tab"
-                                            aria-controls="v-pills-home" aria-selected="false"
-                                            data-category-id="@modifierGroup.ModifierGroupId">
+   aria-controls="v-pills-home" aria-selected="false"
+   data-modifiergroup-id="@modifierGroup.ModifierGroupId">
                                             <img src="~/images/Download/dots-six.svg" class="m-2" alt="Image" width="25px"
                                                 height="25px">
                                             <p class="d-inline">@modifierGroup.modifierGroupName</p>
@@ -471,7 +471,7 @@
                             </div>
                         </div>
                         <div>
-                            <div id="ItemListContainer">
+                            <div id="ModifiersListContainer">
                                 @Html.Partial("_Modifiers", Model.Modifiers)
                             </div>
                             <nav aria-label="Page navigation example">
@@ -743,9 +743,9 @@
 </div>
 <div class="modal fade" id="EditItemModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     @Html.Partial("_EditMenuItemModal", Model);
-    @* <script>
-        function
-    </script> *@
+</div>
+<div class="modal fade" id="EditModifierModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    @Html.Partial("_EditModifierModal", Model);
 </div>
 <script>
     @* function searchUsers() {
